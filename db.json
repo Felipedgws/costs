@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "id": "8dfb",
+      "name": "ARBHO Solutions",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3727",
+      "name": "Studio Paula Franco",
+      "budget": "30000",
+      "category": {
+        "id": "3",
+        "name": "Desing"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7d34",
+      "name": "Luis Carente",
+      "budget": "2000000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Namorada pro Luis",
+          "cost": "100",
+          "description": "Não sei",
+          "id": "108f78b7-22ea-4dda-a9b7-38a078e43037"
+        },
+        {
+          "name": "FELIPE",
+          "cost": "200",
+          "description": "Arrumar uma namorada pro Luis",
+          "id": "e8da7489-f294-4d30-aedc-27e1a7b661ea"
+        }
+      ]
+    },
+    {
+      "id": "ca54",
+      "name": "Sei lá",
+      "budget": "1000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Desing"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
